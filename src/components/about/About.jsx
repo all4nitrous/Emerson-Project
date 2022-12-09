@@ -41,7 +41,7 @@ const About = () => {
         Ralph Waldo Emerson was born to a Puritan family. He was recognized as talanted from a young age and accepted into Harvard College. Whilst ordained as a Unitarian minister he was quite famous amongst his church through his eccentric preachings. Emerson however would leave the church in a search for life's answers leading him to live a life out in nature coining a naturistic writing style that would inspire writers for centuries to come.
         </p>
 
-        <a href="#services" className='btn btn-primary'>Get to know more!</a>
+        <a href="#experience" className='btn btn-primary'>Get to know more!</a>
       </div>
      </div>
      </section>
